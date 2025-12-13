@@ -4,7 +4,7 @@
 >
 > Transform 3D designs into production-ready 2D patterns with advanced fabric simulation and intelligent layout optimization.
 
-[![License]Copyright 2025
+Copyright 2025
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Demo](https://img.shields.io/badge/status-Demo-orange.svg)]()
 
